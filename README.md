@@ -19,6 +19,7 @@ Todas las versiones que se reparten llevan esta misma firma. La app rechaza cual
 
 | Versión | Código | Archivo | SHA-256 del archivo | Tamaño | Fecha |
 |---------|--------|---------|---------------------|--------|-------|
+| 0.24.1 | 49 | `musica-andes-0.24.1-49.apk` | `c84c8f3244a88b329c887277c5ab3404cbebd2957f93a477eff848772afc12e3` | 7 MB | 2026-10-25 |
 | 0.23.3 | 46 | `musica-andes-0.23.3-46.apk` | `53241daf7615038f6395f2f20f167c35bc1f70a0f8cdaab34d3e806354cbc10f` | 7 MB | 2026-10-11 |
 | 0.23.0 | 43 | `musica-andes-0.23.0-43.apk` | `77bc90f087827c11952cbbb16e908f2d5121206265edc1e4312e165ee58c75c6` | 7 MB | 2026-10-09 |
 | 0.22.1 | 42 | `musica-andes-0.22.1-42.apk` | `eb100af53e276f41c376972e8b8347cd5b189d10c32b113717e4fc21f64ea6dd` | 4 MB | 2026-10-08 |
